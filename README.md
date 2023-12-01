@@ -1,3 +1,7 @@
+Hi, Aleo team!
+
+I'm not a bot.
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
